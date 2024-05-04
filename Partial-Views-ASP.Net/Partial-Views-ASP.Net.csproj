@@ -7,8 +7,4 @@
     <RootNamespace>Partial_Views_ASP.Net</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Views\Shared\Components\" />
-  </ItemGroup>
-
 </Project>

@@ -28,3 +28,4 @@ C:\Users\ASUS\source\repos\Partial-Views-ASP.Net\Partial-Views-ASP.Net\obj\Debug
 C:\Users\ASUS\source\repos\Partial-Views-ASP.Net\Partial-Views-ASP.Net\obj\Debug\net8.0\Partial-Views-ASP.Net.pdb
 C:\Users\ASUS\source\repos\Partial-Views-ASP.Net\Partial-Views-ASP.Net\obj\Debug\net8.0\Partial-Views-ASP.Net.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\Partial-Views-ASP.Net\Partial-Views-ASP.Net\obj\Debug\net8.0\ref\Partial-Views-ASP.Net.dll
+C:\Users\ASUS\source\repos\Partial-Views-ASP.Net\Partial-Views-ASP.Net\obj\Debug\net8.0\Partial-Views-ASP.Net.sourcelink.json

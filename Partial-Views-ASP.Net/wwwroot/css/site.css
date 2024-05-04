@@ -130,6 +130,43 @@ footer {
 
 
 
+/*---------------------Main Section-------------------------------------*/
+
+.banner {
+    height: 655px;
+    background-image: url("https://itstep.az/dist/images/home/redesign/banner-l@2x.webp");
+    background-size:cover;
+    background-position:center;
+}
+ 
+ 
+.banner-content {
+    z-index: 2;
+    position: absolute;
+    top: 200px;
+    left: 9%;
+}
+ 
+ 
+ 
+.banner-title {
+    font-family: Inter, sans-serif;
+    color: #1d1d1f;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    margin-bottom: 25px;
+}
+ 
+.banner-subtitle {
+    width: 50%;
+    font-family: Inter, sans-serif;
+    color: #1d1d1f;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+
 /*---------------------Footer Section-----------------------------------*/
 
 
@@ -141,3 +178,4 @@ footer {
 .media-links a img{
     width:20px
 }
+

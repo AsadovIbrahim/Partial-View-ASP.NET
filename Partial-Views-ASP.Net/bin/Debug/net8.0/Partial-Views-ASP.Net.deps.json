@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Partial-Views-ASP.Net/1.0.0": {
+        "runtime": {
+          "Partial-Views-ASP.Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Partial-Views-ASP.Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

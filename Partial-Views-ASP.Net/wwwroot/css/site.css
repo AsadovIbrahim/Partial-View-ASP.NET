@@ -167,6 +167,27 @@ footer {
     line-height: 28px;
 }
 
+
+/*---------------------<Marquee------------------------------------------*/
+.elements{
+    text-transform: uppercase;
+    color: #63636d;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 27px;
+    margin-right: 24px;
+    white-space: nowrap;
+    min-width: auto !important;
+    border: none;
+    background-color: transparent;
+}
+
+
+.marquee {
+    background-color: #111217;
+    padding: 20px;
+}
+
 /*---------------------Footer Section-----------------------------------*/
 
 

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\components\\marquee\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\components\\marquee\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +23,16 @@
       "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\components\\marque\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\components\\marque\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\viewcomponents\\marqueeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\viewcomponents\\marqueeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|c:\\users\\asus\\source\\repos\\partial-views-asp.net\\partial-views-asp.net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F288CFA8-B111-4109-8645-B1406DF6CEEA}|Partial-Views-ASP.Net\\Partial-Views-ASP.Net.csproj|solutionrelative:partial-views-asp.net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,46 +54,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marque\\Default.cshtml",
-              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marque\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marque\\Default.cshtml",
-              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marque\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T18:40:31.174Z",
+              "DocumentIndex": 5,
+              "Title": "MarqueeViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\ViewComponents\\MarqueeViewComponent.cs",
+              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\ViewComponents\\MarqueeViewComponent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\ViewComponents\\MarqueeViewComponent.cs",
+              "RelativeToolTip": "Partial-Views-ASP.Net\\ViewComponents\\MarqueeViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:42:00.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T19:22:02.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T19:21:57.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FooterPartialView.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\FooterPartialView.cshtml",
               "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\FooterPartialView.cshtml",
@@ -102,20 +80,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HeaderPartialView.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\HeaderPartialView.cshtml",
               "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\HeaderPartialView.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\HeaderPartialView.cshtml",
               "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Shared\\HeaderPartialView.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-04T18:52:05.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marquee\\Default.cshtml",
+              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marquee\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marquee\\Default.cshtml",
+              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Shared\\Components\\Marquee\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T18:40:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T13:38:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T19:21:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T10:31:12.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T13:47:46.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -128,42 +171,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T13:47:46.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Partial-Views-ASP.Net\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAAAI4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-04T13:38:45.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Partial-Views-ASP.Net\\Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Partial-Views-ASP.Net\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T10:31:12.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:22:02.506Z"
             }
           ]
         }
